@@ -2,5 +2,6 @@
 /bhoomi-client/node_modules
 /bhoomi-client/.pnp
 /bhoomi-client/.pnp.js
+/bhoomi-client/build
 /uploads
 /bhoomi-backend/config/config.env
