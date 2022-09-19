@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bhoomi-backend/server.js",
     "dev": "nodemon bhoomi-backend/server.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix bhoomi-client && npm run build --prefix bhoomi-client"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix bhoomi-client && npm run build --prefix bhoomi-client"
   },
   "keywords": [],
   "author": "sahil kargutkar",
