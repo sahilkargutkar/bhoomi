@@ -1,0 +1,17 @@
+.projectContainer {
+  display: flex;
+  justify-content: center;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+.projectDetails {
+  margin: 50px 150px 150px;
+}
+
+.projectStatus {
+  display: flex;
+}
+.tableCOntainer {
+  margin-top: 50px;
+}

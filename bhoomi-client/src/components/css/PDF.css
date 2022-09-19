@@ -1,0 +1,12 @@
+.allProjects {
+  display: flex;
+  justify-content: center;
+}
+.tableDetails {
+  border: 1px solid #000;
+}
+.allButtons {
+  position: absolute;
+  right: 10px;
+  bottom: 5px;
+}

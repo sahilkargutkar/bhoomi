@@ -1,0 +1,22 @@
+.gridContainer {
+  display: flex;
+  justify-content: center;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+.childrenInModal {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.containerModal {
+  margin: 50px 250px 250px;
+}
+.linkClass {
+  text-decoration: none;
+}
+.gridItem {
+  margin: 10px 0 0 10px;
+}

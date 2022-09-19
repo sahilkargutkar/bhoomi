@@ -1,0 +1,5 @@
+export const SEND_PDF_REQUEST = "SEND_PDF_REQUEST";
+export const SEND_PDF_SUCCESS = "SEND_PDF_SUCCESS";
+export const SEND_PDF_FAIL = "SEND_PDF_FAIL";
+
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
